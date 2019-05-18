@@ -8,11 +8,11 @@
   
 ## **实验截图：**
 ### 主界面
-![Alt](https://github.com/CunmingChen/Android/blob/master/AndroidTest/Layout/main.png?raw=true#pic_center)
+![Alt](https://github.com/CunmingChen/Layout/main.png?raw=true#pic_center)
 ### 线性布局
   
-![Alt](https://github.com/CunmingChen/Android/blob/master/AndroidTest/Layout/linear.png?raw=true#pic_center)
+![Alt](https://github.com/CunmingChen/Layout/linear.png?raw=true#pic_center)
 ### 约束布局
 ![Alt](https://github.com/CunmingChen/Android/blob/master/AndroidTest/Layout/constraint.png?raw=true#pic_center)
 ### 表格布局  
-![Alt](https://github.com/CunmingChen/Android/blob/master/AndroidTest/Layout/table.png?raw=true#pic_center)
+![Alt](https://github.com/CunmingChen/Layout/table.png?raw=true#pic_center)
